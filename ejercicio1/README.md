@@ -12,10 +12,14 @@
 5.	Inicializar el repositorio de git desde la línea de comandos desde la carpeta ejercicios.\
 ``` git init ```
 6.	Crear un primer commit con el mensaje “Versión Inicial”.\
-``` git commit –m “Versión Inicial ```
+``` git add . README.md ```\
+``` git commit –m “Versión Inicial" ```
+
 7.	Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”\
 ``` git commit –m “Agrega solución primer ejercicio” ```
+
 8.	Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.\
 ``` git remote ```
+
 9.	Enviar el link del repositorio en Github a esta misión.\
 
